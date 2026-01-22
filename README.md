@@ -66,7 +66,7 @@ The code is structured around clear functional blocks to allow reuse of individu
 
 The following diagram shows the physical connections between the Arduino Uno, LED matrix, RTC module, light sensor, and buzzer.
 
-![Wiring Diagram](images/SchemeClock.jpg)
+![Wiring Diagram](images/SchemeClock.jpeg)
 
 ## 🎯 Purpose and Scope
 
