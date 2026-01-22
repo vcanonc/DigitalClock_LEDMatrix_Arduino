@@ -62,6 +62,12 @@ This repository contains:
 
 The code is structured around clear functional blocks to allow reuse of individual features in other Arduino-based projects.
 
+## 🔌 Wiring Diagram
+
+The following diagram shows the physical connections between the Arduino Uno, LED matrix, RTC module, light sensor, and buzzer.
+
+![Wiring Diagram](images/SchemeClock.jpg)
+
 ## 🎯 Purpose and Scope
 
 This project was developed as a practical embedded systems exercise, combining real-time clock management, visual output on LED matrices, and basic sensor integration. It is intended for educational and personal use.
