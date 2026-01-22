@@ -4,6 +4,8 @@ This project is a digital clock built using an Arduino Uno and a LED matrix disp
 
 The project focuses on real-time clock management, visual output on LED matrices, and simple environmental interaction through sensors.
 
+![Wiring Diagram](images/image1.jpeg)
+
 ## ✨ Features
 
 - **Time Display**  
